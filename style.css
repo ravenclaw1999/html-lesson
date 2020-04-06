@@ -1,0 +1,36 @@
+.home{
+	text-align: center;
+	background-color: black;
+	color: Green;
+	font-family: Monospace;
+}
+
+.img{
+	height: 150px;;
+}
+
+.button {
+  background-color: white; 
+  color: black; 
+  border: 5px solid Green;
+  font-family: Monospace;
+  font-size: 20px;
+}
+
+.button:hover {
+  background-color: red;
+  color: white;
+}
+
+.secondPage {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	background-color: black;
+	color: Green;
+	font-family: Monospace;
+}
+
+form{
+	color: Green;
+}
